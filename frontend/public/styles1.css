@@ -1,0 +1,9 @@
+body {
+  background-image: url("./background.png"); /* Update the path */
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repetition */
+  height: 100vh; /* Full height of the viewport */
+  margin: 0; /* Remove default margin */
+  z-index: 1;
+}
